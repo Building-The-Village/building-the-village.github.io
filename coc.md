@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Note: "The Village" in this document refers to the The Village Slack workspace at https://thevillage-iuc6872.slack.com. "The administrators" refers to the administrators of this organization: currently Henry Cooke, Tim Cowlishaw, Libby Miller and Tristan Ferne.
+Note: "The Village" in this document refers to the The Village Slack workspace at [https://thevillage-iuc6872.slack.com](https://thevillage-iuc6872.slack.com). "The administrators" refers to the administrators of this organization: currently Henry Cooke, Tim Cowlishaw, Libby Miller and Tristan Ferne.
 
 The Village is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
@@ -33,7 +33,7 @@ The administrators will not act on complaints regarding:
 - Criticism of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 ## Reporting
-If you are being harassed by a member of The Village, notice that someone else is being harassed, or have any other concerns, please contact an administrator (listed at the top of this document) directly or file a report using the Mastodon reporting system (click the "..." on a post and then use the reporting feature).
+If you are being harassed by a member of The Village, notice that someone else is being harassed, or have any other concerns, please contact an administrator (listed at the top of this document) directly.
 
 The admins reserve the right to exclude people from The Village based on their past behavior, including behavior outside The Village spaces and behavior towards people who are not in The Village. We will not name harassment victims without their affirmative consent.
 
